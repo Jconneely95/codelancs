@@ -1,0 +1,19 @@
+h1{
+    color:blue;
+    font-size: 24px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+h2{
+    color: blueviolet;
+    font-size: 20px;
+    margin: auto;
+    width: 80%;
+}
+.image{
+    transform: rotate(180deg);
+    border: 2px solid red;
+    margin: auto;
+    width: 50%;
+    display: block;
+}
